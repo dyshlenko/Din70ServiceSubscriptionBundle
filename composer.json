@@ -1,0 +1,15 @@
+{
+  "name": "din70/service-subscription",
+  "description": "service-subscription",
+  "type": "symfony-bundle",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "din70",
+      "email": "igor.dyshlenko@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
